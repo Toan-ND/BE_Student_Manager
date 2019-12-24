@@ -42,9 +42,6 @@ import java.util.Properties;
 //@EnableSpringDataWebSupport
 public class AppConfig implements WebMvcConfigurer {
 
-
-
-
 //
 //    @Bean
 //    public MessageSource messageSource() {
